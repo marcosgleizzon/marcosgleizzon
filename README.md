@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @marcosgleizzon
+- 👋 Hi, I’m Marcos Gleisson
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning Python | JavaScript | Blender
 - 💞️ I’m looking to collaborate on Gamers
-- 📫 How to reach me marcosgleisson@outlook.com
+- 📫 How to reach me: @marcosgleizzon
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: guitarist 🎸
 
